@@ -1,0 +1,13 @@
+body
+{
+background-color: powderblue;
+
+}
+h1{
+color:red;
+text-align:center;
+}
+table,th,td{
+border: 1px solid red;
+border-collapse: collapse;
+}
